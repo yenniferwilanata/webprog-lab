@@ -1,0 +1,6 @@
+.guest-background {
+    background-image: url("./img/guest_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
